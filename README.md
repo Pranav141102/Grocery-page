@@ -1,2 +1,2 @@
 # Grocery-page
-https://pranav141102.github.io/Grocery-page/
+https://grocery-page-eight.vercel.app/
